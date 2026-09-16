@@ -1,0 +1,14 @@
+[media]
+spotify.exe
+firefox.exe
+chrome.exe
+
+[games]
+ac.exe
+Cyberpunk2077.exe
+cs2.exe
+
+[chat]
+teams.exe
+discord.exe
+teamspeak.exe
